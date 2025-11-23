@@ -1,14 +1,14 @@
 export const contri = [
     {
-        name: "Sabeena",
-        roll: 'Ai SDK dev'
+        name: "Pothula Chaitanya",
+        roll: 'Lead Developer'
+    },
+    {
+        name: 'Sabeena',
+        roll: 'Designer'
     },
     {
         name: 'Devamshi',
-        roll: 'UI/UX'
-    },
-    {
-        name: 'Chaitanya',
-        roll: 'Report Maker'
+        roll: 'Tester'
     }
 ]
