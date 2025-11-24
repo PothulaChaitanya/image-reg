@@ -13,8 +13,8 @@ This project is a React-based web application that uses TensorFlow.js and the CO
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/S-Axhwin/image-detection.git
-   cd image-detection
+   https://github.com/PothulaChaitanya/image-reg.git
+
 
 2.	Install Dependencies:
 Make sure you have bun run time installed, then run:
